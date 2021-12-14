@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2bdf3360-ac79-4136-84ac-daa9ecb9011f": {
+      "ProjectGuid": "2bdf3360-ac79-4136-84ac-daa9ecb9011f",
+      "DisplayName": "FunctionApp1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

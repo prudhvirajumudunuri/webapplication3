@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timertrigger1", "timertrigger1\timertrigger1.csproj", "{B83AD493-6DF3-4E2F-8AB3-BE11509BED2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B83AD493-6DF3-4E2F-8AB3-BE11509BED2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83AD493-6DF3-4E2F-8AB3-BE11509BED2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83AD493-6DF3-4E2F-8AB3-BE11509BED2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83AD493-6DF3-4E2F-8AB3-BE11509BED2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00ED6C80-4AA4-43B2-B49E-407514A4D311}
+	EndGlobalSection
+EndGlobal

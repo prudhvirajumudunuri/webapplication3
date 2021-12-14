@@ -1,0 +1,7 @@
+C:\Users\Prudhvi\source\repos\WebApplication13\WebApplication13\obj\Release\net6.0\PubTmp\Out\WebApplication13.exe
+C:\Users\Prudhvi\source\repos\WebApplication13\WebApplication13\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Prudhvi\source\repos\WebApplication13\WebApplication13\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Prudhvi\source\repos\WebApplication13\WebApplication13\obj\Release\net6.0\PubTmp\Out\WebApplication13.dll
+C:\Users\Prudhvi\source\repos\WebApplication13\WebApplication13\obj\Release\net6.0\PubTmp\Out\WebApplication13.deps.json
+C:\Users\Prudhvi\source\repos\WebApplication13\WebApplication13\obj\Release\net6.0\PubTmp\Out\WebApplication13.runtimeconfig.json
+C:\Users\Prudhvi\source\repos\WebApplication13\WebApplication13\obj\Release\net6.0\PubTmp\Out\WebApplication13.pdb

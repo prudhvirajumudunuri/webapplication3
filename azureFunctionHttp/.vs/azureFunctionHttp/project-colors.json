@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3970ba60-94b5-4aa4-9e09-ad486bd25316": {
+      "ProjectGuid": "3970ba60-94b5-4aa4-9e09-ad486bd25316",
+      "DisplayName": "azureFunctionHttp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

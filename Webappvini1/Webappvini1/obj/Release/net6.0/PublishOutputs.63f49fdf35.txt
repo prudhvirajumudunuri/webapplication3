@@ -1,0 +1,7 @@
+C:\Users\Prudhvi\source\repos\Webappvini1\Webappvini1\obj\Release\net6.0\PubTmp\Out\Webappvini1.exe
+C:\Users\Prudhvi\source\repos\Webappvini1\Webappvini1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Prudhvi\source\repos\Webappvini1\Webappvini1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Prudhvi\source\repos\Webappvini1\Webappvini1\obj\Release\net6.0\PubTmp\Out\Webappvini1.dll
+C:\Users\Prudhvi\source\repos\Webappvini1\Webappvini1\obj\Release\net6.0\PubTmp\Out\Webappvini1.deps.json
+C:\Users\Prudhvi\source\repos\Webappvini1\Webappvini1\obj\Release\net6.0\PubTmp\Out\Webappvini1.runtimeconfig.json
+C:\Users\Prudhvi\source\repos\Webappvini1\Webappvini1\obj\Release\net6.0\PubTmp\Out\Webappvini1.pdb
